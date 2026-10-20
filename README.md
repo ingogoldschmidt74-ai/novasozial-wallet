@@ -18,4 +18,4 @@ Stand: Konzeptphase, noch kein Code. Version: 0.0.0
 - Absolute Lokalität: keine Netzwerkkommunikation für Dokumentdaten
 - Keine echten Ausweisdaten im Repository (auch nicht in Tests)
 - Änderungen an Sicherheitsentscheidungen als Eintrag in docs/adr/
-- Lizenz: noch offen, vor erstem Code entscheiden
+- Lizenz: Apache License 2.0 (siehe LICENSE)
