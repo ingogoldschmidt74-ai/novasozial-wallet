@@ -3,7 +3,7 @@
 Quelloffener, rein lokaler Dokumententresor für Kopien von Personalausweis, Führerschein, Krankenkassenkarte und Schwerbehindertenausweis.
 Keine digitale Identität, kein amtlicher Nachweis, kein Server, kein Account, keine Cloud, kein Tracking.
 
-Stand: Konzeptphase, noch kein Code. Version: 0.0.0
+Stand: Konzeptphase, leeres Android-Projektgerüst ohne Funktion. Version: 0.0.0. Dokumentation: siehe docs/README.md
 
 ## Ordner
 | Ordner | Inhalt |
